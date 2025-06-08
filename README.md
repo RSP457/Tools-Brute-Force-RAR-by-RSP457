@@ -10,7 +10,7 @@ Alat sederhana untuk melakukan brute-force terhadap file `.rar` menggunakan word
 ██║ ╚═╝ ██║╚██████╔╝██║  ██╗███████╗
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 
-MUXZ | by RSP457
+MUXZCommunity | by RSP457
 ```
 
 ---
@@ -84,11 +84,43 @@ Lalu pilih file `.rar` dan file `wordlist.txt` melalui tampilan antarmuka.
 Isi wordlist dalam file `.txt`, satu password per baris:
 
 ```
-123456
+Penting
 password
+admin
 qwerty
-rarpass123
-admin123
+letmein
+123456
+TestTestTest
+AyoSemangat!!!
+Nicee!!!
+AyoSemangats
+AyoSemangats!!
+AyoSemangatsMassee
+AyoSemangatss
+AyoSemangatsSSG
+AyoSemangatsMasss
+fa
+faf
+asf
+asfassaf
+adminfafs
+adminfafssaf
+adminfafsfzx
+zcczxc
+safqfq
+fav
+avvva
+vavsaaf
+faasfa
+safqfqfas
+fasafsafx
+ARAWR
+ARAWRWA
+RARA
+sasar
+popo121o12393
+lmzxmvl13
+
 ```
 
 ---
