@@ -1,4 +1,4 @@
-# 🔐 Tools Brute Force RAR by MUXZ | RSP457
+# 🔐 Tools Brute Force RAR by MUXZCommunity | RSP457
 
 Alat sederhana untuk melakukan brute-force terhadap file `.rar` menggunakan wordlist. Dibuat untuk keperluan edukasi dan pengujian keamanan arsip.
 
