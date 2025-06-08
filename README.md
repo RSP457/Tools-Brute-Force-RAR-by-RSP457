@@ -42,7 +42,7 @@ cd Tools-Brute-Force-RAR-by-RSP457
 3. Install dependensi:
 
 ```bash
-pip install patool requirements.txt
+pip install requirements.txt #or pip install patool
 ```
 
 4. Running
